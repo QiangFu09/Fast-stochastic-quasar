@@ -1,2 +1,2 @@
-# Fast-stochastic-quasar
-Accelerated Stochastic Optimization Methods under Quasar-convexity
+# Stochastic quasar-convex acceleration
+Related codes of “Accelerated Stochastic Optimization Methods under Quasar-convexity”
